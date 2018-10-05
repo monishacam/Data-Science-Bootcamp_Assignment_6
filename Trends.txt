@@ -1,0 +1,4 @@
+There is a relatively strong correlation bewteen latitude and temperature. The lower latitudes have higher temperatures and the higher latitudes have lower temperatures.
+The correlation between humidity and latitude is very weak.
+There is almost no correlation between cloudiness and latitude.
+The correlation between latitude and wind speed is very weak.
